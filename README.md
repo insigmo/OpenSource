@@ -64,7 +64,7 @@ The goal is to discover projects that recreate the functionality of well-known a
 
 | Original Software | Rust Alternative | Repository |
 |---|---|---|
-| TeamViewer / AnyDesk | RustDesk | [GitHub](https://github.com/rustdesk/rustdesk) |
+| TeamViewer / AnyDesk | Lumepeer | [GitHub](https://github.com/insigmo/lumepeer) |
 | Microsoft Recall / Rewind AI | Screenpipe | [GitHub](https://github.com/screenpipe/screenpipe) |
 | Kubernetes Lens | FerrisScope | [GitHub](https://github.com/dzcorp/FerrisScope) |
 
